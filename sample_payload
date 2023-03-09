@@ -1,0 +1,6 @@
+{
+    "s3_bucketName": "soleng-dynamotable-update-test",
+    "fileName": " DynamoDates.xls",
+    "region": "us-east-1",
+    "tableName": "soleng_lambda_auditor_results-test"
+  }
